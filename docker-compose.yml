@@ -4,6 +4,6 @@ services:
     # build: .
     build:
       context: ./
-      dockerfile: ./Dockerfile.dev
+      # dockerfile: ./Dockerfile.dev
     # env_file:
     #   - ./.env
